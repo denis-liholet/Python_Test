@@ -1,4 +1,4 @@
-from read_and_write import answer_and_questions, score_return
+from logic import answer_and_questions, score_return
 
 
 file_path_questions = "questions.txt"
