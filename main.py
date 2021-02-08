@@ -1,3 +1,12 @@
+"""
+
+file_path_questions - переменная, хранящая путь к файлу с вопросами теста
+
+file_path_result - переменная, хранящая путь к файлу для записи результата
+                   текущего теста
+
+"""
+
 from logic import answer_and_questions, score_return
 
 
